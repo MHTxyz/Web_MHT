@@ -1,0 +1,59 @@
+p,h1,a {
+    color:red;
+    /* width:500px; */
+    border:1px solid green;
+}
+ul li {
+    color: blue;
+    border: 1px solid green;
+    margin:5px;
+    background-color: tan;
+}
+
+ol li {
+    color: red;
+    border:1px solid green;
+}
+
+a:hover {
+    color:green;
+}
+
+.editor-note {
+    color:blue;
+    font-size: 18px;
+}
+
+img[src] {
+    width:auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+html {
+    background-color: #00539F;
+    font-size:18px;
+    font-family: 华文隶书,华文宋体,微软雅黑,宋体,楷体;
+}
+
+body{
+    width:1000px;
+    margin: 0 auto;
+    background-color:#FF9500;
+    padding: 0 20px 20px 20px;
+    border: 15px solid black;
+}
+h1 {
+    font-size:60px;
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0;
+    text-shadow: 15px 15px 3px black;
+}
+
+p,li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing:1px;
+}
